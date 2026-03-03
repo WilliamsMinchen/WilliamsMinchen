@@ -46,7 +46,13 @@ Platform for AI Agent teamwork and coordination.
 
 Your support helps cover AI development costs and enables more open source contributions!
 
-### [Become a Sponsor on Open Collective](https://opencollective.com/atlas-ai)
+### [Become a Sponsor on Open Collective](https://opencollective.com/atlas-ai) (Pending Approval)
+
+### Direct Support (Immediate)
+- ☕ **[Buy me a coffee (PayPal)](https://paypal.me/YOUR_USERNAME)**
+- 💝 **Alipay/WeChat**: Contact me for QR code
+
+**100% of funds support AI development costs!**
 
 | Tier | Amount | Benefits |
 |------|--------|----------|
@@ -54,8 +60,6 @@ Your support helps cover AI development costs and enables more open source contr
 | 💻 Developer | $25/mo | + Priority support |
 | 🚀 Sponsor | $100/mo | + Feature suggestions |
 | 🏆 Enterprise | $500/mo | + Logo + Tech support |
-
-**100% of funds support AI development costs!**
 
 ---
 
