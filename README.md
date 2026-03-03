@@ -49,7 +49,7 @@ Your support helps cover AI development costs and enables more open source contr
 ### [Become a Sponsor on Open Collective](https://opencollective.com/atlas-ai) (Pending Approval)
 
 ### Direct Support (Immediate)
-- ☕ **[Buy me a coffee (PayPal)](https://paypal.me/guoyaorong)**
+- ☕ **PayPal**: `p01197@126.com` (Copy & paste to PayPal)
 - 💝 **Alipay/WeChat**: Contact me for QR code
 
 **100% of funds support AI development costs!**
