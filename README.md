@@ -56,7 +56,8 @@ Your support helps cover AI development costs and enables more open source contr
 **🇨🇳 中国大陆:**
 - 💝 **支付宝**: 扫码付款
   <img src="alipay-qr.jpg" alt="支付宝收款码" width="200"/>
-- 🧧 **微信**: 联系我获取二维码
+- 🧧 **微信**: 扫码付款
+  <img src="wechat-qr.jpg" alt="微信收款码" width="200"/>
 
 **100% of funds support AI development costs!**
 
