@@ -49,17 +49,23 @@ Your support helps cover AI development costs and enables more open source contr
 ### [Become a Sponsor on Open Collective](https://opencollective.com/atlas-ai) (Pending Approval)
 
 ### Direct Support (Immediate)
+
+**🌏 International:**
 - ☕ **PayPal**: `p01197@126.com` (Copy & paste to PayPal)
-- 💝 **Alipay/WeChat**: Contact me for QR code
+
+**🇨🇳 中国大陆:**
+- 💝 **支付宝**: 扫码付款
+  <img src="alipay-qr.jpg" alt="支付宝收款码" width="200"/>
+- 🧧 **微信**: 联系我获取二维码
 
 **100% of funds support AI development costs!**
 
 | Tier | Amount | Benefits |
 |------|--------|----------|
-| 🌱 Supporter | $5/mo | Thanks + Monthly updates |
-| 💻 Developer | $25/mo | + Priority support |
-| 🚀 Sponsor | $100/mo | + Feature suggestions |
-| 🏆 Enterprise | $500/mo | + Logo + Tech support |
+| 🌱 Supporter | $5/月 | 感谢 + 月度更新 |
+| 💻 Developer | $25/月 | + 优先支持 |
+| 🚀 Sponsor | $100/月 | + 功能建议权 |
+| 🏆 Enterprise | $500/月 | + Logo + 技术支持 |
 
 ---
 
